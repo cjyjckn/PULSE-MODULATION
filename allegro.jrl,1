@@ -1,0 +1,2274 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Jul 30 17:10:45 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=7428 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\user\Desktop\PULSE MODULATION\pulse modulation.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/user/Desktop/PULSE MODULATION/pulse modulation.brd
+\i (00:00:04) trapsize 887
+\i (00:00:04) trapsize 907
+\i (00:00:04) trapsize 927
+\i (00:00:04) trapsize 906
+\i (00:00:04) trapsize 14508
+\i (00:00:04) generaledit 
+\i (00:00:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkTOP_NEW"
+\i (00:00:06) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkTOP_NEW"
+\i (00:00:37) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:37) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:32) pick grid 176.837 102.016
+\t (00:01:32) last pick:  176.800 102.000
+\e (00:01:33) Command not found: ~S
+\i (00:01:35) artwork 
+\i (00:03:58) setwindow form.film_control
+\i (00:03:58) FORM film_control filmtree  'BOARD GEOMETRY/DESIGN_OUTLINE' design 
+\i (00:03:58) FORM film_control filmtree  design 
+\i (00:04:47) FORM film_control filmtree  SilkTOP_NEW 
+\i (00:05:02) setwindow pcb
+\i (00:05:02) color192 
+\i (00:05:04) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:05:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:05:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:05:07) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:08) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:08) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:09) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:05:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:05:09) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:19) color192 
+\i (00:05:22) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:05:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:05:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:05:25) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:05:26) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:05:26) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:05:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:05:26) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:05:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:05:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:05:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:05:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:29) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:05:29) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:05:30) zoom in 1 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom in 44.938 34.798
+\i (00:05:30) trapsize 453
+\i (00:05:30) zoom in 1 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom in 44.938 34.799
+\i (00:05:30) trapsize 226
+\i (00:05:31) zoom out 1 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom out 72.931 37.155
+\i (00:05:31) trapsize 453
+\i (00:05:31) roam start
+\i (00:05:31) roam x 112
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x 64
+\i (00:05:32) roam x 80
+\i (00:05:32) roam y -16
+\i (00:05:32) roam x 80
+\i (00:05:32) roam x 64
+\i (00:05:32) roam y -16
+\i (00:05:32) roam x 48
+\i (00:05:32) roam x 48
+\i (00:05:32) roam x -48
+\i (00:05:32) roam y -16
+\i (00:05:32) roam x -32
+\i (00:05:32) roam x -16
+\i (00:05:32) roam end
+\i (00:05:34) move 
+\t (00:05:35) Select element(s) to move.
+\i (00:05:39) setwindow form.find
+\i (00:05:39) FORM find all_off  
+\i (00:05:41) FORM find text YES 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) roam start
+\i (00:05:43) roam x -64
+\i (00:05:43) roam end
+\i (00:05:43) zoom in 1 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom in 86.519 53.454
+\i (00:05:43) trapsize 226
+\i (00:05:44) pick grid 86.926 56.217
+\t (00:05:44) last pick:  86.900 56.200
+\t (00:05:44) last pick:  87.080 57.014
+\t (00:05:44) Pick new location for the element(s).
+\i (00:05:46) iangle -90 
+\t (00:05:46) last pick:  270.000 0.000
+\i (00:05:47) pick grid 88.602 62.920
+\t (00:05:47) last pick:  88.600 62.900
+\i (00:05:48) pick grid 86.383 58.029
+\t (00:05:48) last pick:  86.400 58.000
+\t (00:05:48) last pick:  86.385 58.623
+\t (00:05:48) Pick new location for the element(s).
+\i (00:05:48) iangle -90 
+\t (00:05:48) last pick:  270.000 0.000
+\i (00:05:48) iangle -90 
+\t (00:05:48) last pick:  270.000 0.000
+\i (00:05:49) pick grid 85.658 61.788
+\t (00:05:49) last pick:  85.700 61.800
+\i (00:05:49) pick grid 86.655 60.973
+\t (00:05:49) last pick:  86.700 61.000
+\t (00:05:49) last pick:  87.300 61.189
+\t (00:05:49) Pick new location for the element(s).
+\i (00:05:50) pick grid 85.749 60.792
+\t (00:05:50) last pick:  85.700 60.800
+\i (00:05:50) pick grid 86.111 59.569
+\t (00:05:50) last pick:  86.100 59.600
+\t (00:05:50) last pick:  86.411 59.411
+\t (00:05:50) Pick new location for the element(s).
+\i (00:05:51) pick grid 85.658 59.433
+\t (00:05:51) last pick:  85.700 59.400
+\i (00:05:52) roam start
+\i (00:05:52) roam x 64
+\i (00:05:52) roam y 64
+\i (00:05:52) roam x 48
+\i (00:05:52) roam y 80
+\i (00:05:52) roam x 32
+\i (00:05:52) roam y 32
+\i (00:05:52) roam y 32
+\i (00:05:53) roam y 32
+\i (00:05:53) roam x 16
+\i (00:05:53) roam y 32
+\i (00:05:53) roam y 32
+\i (00:05:53) roam y 48
+\i (00:05:53) roam x -16
+\i (00:05:53) roam y 48
+\i (00:05:53) roam end
+\i (00:05:55) roam start
+\i (00:05:55) roam y 16
+\i (00:05:55) roam x -64
+\i (00:05:55) roam y 48
+\i (00:05:55) roam x -80
+\i (00:05:55) roam y 48
+\i (00:05:55) roam x -80
+\i (00:05:55) roam y 48
+\i (00:05:55) roam x -32
+\i (00:05:55) roam y 32
+\i (00:05:55) roam x -32
+\i (00:05:55) roam y 32
+\i (00:05:56) roam end
+\i (00:05:56) pick grid 82.532 9.472
+\t (00:05:56) last pick:  82.500 9.500
+\t (00:05:56) last pick:  82.117 9.068
+\t (00:05:56) Pick new location for the element(s).
+\i (00:05:57) pick grid 83.393 9.562
+\t (00:05:57) last pick:  83.400 9.600
+\i (00:05:58) roam start
+\i (00:05:58) roam x -112
+\i (00:05:58) roam x -96
+\i (00:05:58) roam x -16
+\i (00:05:58) roam x -32
+\i (00:05:58) roam end
+\i (00:05:59) pick grid 64.596 22.335
+\t (00:05:59) last pick:  64.600 22.300
+\t (00:05:59) last pick:  64.312 22.098
+\t (00:05:59) Pick new location for the element(s).
+\i (00:06:00) pick grid 61.652 26.729
+\t (00:06:00) last pick:  61.700 26.700
+\i (00:06:01) pick grid 64.596 21.610
+\t (00:06:01) last pick:  64.600 21.600
+\t (00:06:01) last pick:  64.745 20.752
+\t (00:06:01) Pick new location for the element(s).
+\i (00:06:02) pick grid 62.014 25.053
+\t (00:06:02) last pick:  62.000 25.100
+\i (00:06:02) pick grid 65.094 20.025
+\t (00:06:02) last pick:  65.100 20.000
+\t (00:06:02) last pick:  64.719 19.964
+\t (00:06:02) Pick new location for the element(s).
+\i (00:06:03) pick grid 64.958 23.694
+\t (00:06:03) last pick:  65.000 23.700
+\i (00:06:04) pick grid 64.460 18.712
+\t (00:06:04) last pick:  64.500 18.700
+\t (00:06:04) last pick:  63.830 18.186
+\t (00:06:04) Pick new location for the element(s).
+\i (00:06:05) pick grid 65.049 22.516
+\t (00:06:05) last pick:  65.000 22.500
+\i (00:06:06) pick grid 57.892 22.743
+\t (00:06:06) last pick:  57.900 22.700
+\t (00:06:06) last pick:  55.208 22.046
+\t (00:06:06) Pick new location for the element(s).
+\i (00:06:08) pick grid 52.276 27.136
+\t (00:06:08) last pick:  52.300 27.100
+\i (00:06:09) pick grid 60.112 21.746
+\t (00:06:09) last pick:  60.100 21.700
+\t (00:06:09) last pick:  59.867 21.463
+\t (00:06:09) Pick new location for the element(s).
+\i (00:06:10) pick grid 57.530 26.865
+\t (00:06:10) last pick:  57.500 26.900
+\i (00:06:11) pick grid 59.840 19.436
+\t (00:06:11) last pick:  59.800 19.400
+\t (00:06:11) last pick:  59.410 19.228
+\t (00:06:11) Pick new location for the element(s).
+\i (00:06:12) pick grid 58.119 24.872
+\t (00:06:12) last pick:  58.100 24.900
+\i (00:06:13) pick grid 59.432 20.252
+\t (00:06:13) last pick:  59.400 20.300
+\t (00:06:13) last pick:  59.385 20.218
+\t (00:06:13) Pick new location for the element(s).
+\i (00:06:14) pick grid 57.983 15.858
+\t (00:06:14) last pick:  58.000 15.900
+\i (00:06:14) pick grid 59.931 17.715
+\t (00:06:14) last pick:  59.900 17.700
+\t (00:06:14) last pick:  59.385 17.551
+\t (00:06:14) Pick new location for the element(s).
+\i (00:06:15) pick grid 58.028 14.816
+\t (00:06:15) last pick:  58.000 14.800
+\i (00:06:16) roam start
+\i (00:06:16) roam x -64
+\i (00:06:16) roam y 16
+\i (00:06:16) roam x -80
+\i (00:06:16) roam y 16
+\i (00:06:16) roam x -48
+\i (00:06:16) roam y 16
+\i (00:06:16) roam x -32
+\i (00:06:17) roam end
+\i (00:06:18) pick grid 46.614 14.137
+\t (00:06:18) last pick:  46.600 14.100
+\t (00:06:18) last pick:  46.126 14.910
+\t (00:06:18) Pick new location for the element(s).
+\i (00:06:18) pick grid 48.109 11.510
+\t (00:06:18) last pick:  48.100 11.500
+\i (00:06:19) pick grid 51.461 13.503
+\t (00:06:19) last pick:  51.500 13.500
+\i (00:06:19) pick grid 51.461 13.820
+\t (00:06:19) last pick:  51.500 13.800
+\t (00:06:19) last pick:  51.435 14.605
+\t (00:06:19) Pick new location for the element(s).
+\i (00:06:20) iangle -90 
+\t (00:06:20) last pick:  270.000 0.000
+\i (00:06:20) iangle -90 
+\t (00:06:20) last pick:  270.000 0.000
+\i (00:06:21) pick grid 46.342 19.663
+\t (00:06:21) last pick:  46.300 19.700
+\i (00:06:22) pick grid 49.196 13.322
+\t (00:06:22) last pick:  49.200 13.300
+\t (00:06:22) last pick:  48.954 14.258
+\t (00:06:22) Pick new location for the element(s).
+\i (00:06:22) iangle -90 
+\t (00:06:22) last pick:  270.000 0.000
+\i (00:06:22) iangle -90 
+\t (00:06:22) last pick:  270.000 0.000
+\i (00:06:23) pick grid 46.886 18.395
+\t (00:06:23) last pick:  46.900 18.400
+\i (00:06:24) pick grid 46.569 12.959
+\t (00:06:24) last pick:  46.600 13.000
+\t (00:06:24) last pick:  46.126 12.243
+\t (00:06:24) Pick new location for the element(s).
+\i (00:06:24) iangle -90 
+\t (00:06:24) last pick:  270.000 0.000
+\i (00:06:25) pick grid 46.614 14.454
+\t (00:06:25) last pick:  46.600 14.500
+\i (00:06:25) pick grid 47.928 11.736
+\t (00:06:25) last pick:  47.900 11.700
+\t (00:06:25) last pick:  48.100 11.500
+\t (00:06:25) Pick new location for the element(s).
+\i (00:06:25) iangle -90 
+\t (00:06:25) last pick:  270.000 0.000
+\i (00:06:26) pick grid 46.388 13.276
+\t (00:06:26) last pick:  46.400 13.300
+\i (00:06:27) pick grid 46.252 8.747
+\t (00:06:27) last pick:  46.300 8.700
+\t (00:06:27) last pick:  46.076 5.905
+\t (00:06:27) Pick new location for the element(s).
+\i (00:06:27) iangle -90 
+\t (00:06:27) last pick:  270.000 0.000
+\i (00:06:28) pick grid 40.907 4.489
+\t (00:06:28) last pick:  40.900 4.500
+\i (00:06:29) roam start
+\i (00:06:29) roam x -16
+\i (00:06:29) roam x -96
+\i (00:06:29) roam x -96
+\i (00:06:29) roam y 16
+\i (00:06:29) roam x -32
+\i (00:06:29) roam y 16
+\i (00:06:29) roam end
+\i (00:06:30) pick grid 32.074 17.353
+\t (00:06:30) last pick:  32.100 17.400
+\t (00:06:30) last pick:  32.207 17.196
+\t (00:06:30) Pick new location for the element(s).
+\i (00:06:31) pick grid 25.325 9.834
+\t (00:06:31) last pick:  25.300 9.800
+\i (00:06:31) pick grid 32.844 14.862
+\t (00:06:31) last pick:  32.800 14.900
+\t (00:06:31) last pick:  32.206 13.767
+\t (00:06:31) Pick new location for the element(s).
+\i (00:06:32) pick grid 24.827 3.538
+\t (00:06:32) last pick:  24.800 3.500
+\i (00:06:33) pick grid 32.754 15.179
+\t (00:06:33) last pick:  32.800 15.200
+\t (00:06:33) last pick:  33.095 15.037
+\t (00:06:33) Pick new location for the element(s).
+\i (00:06:34) pick grid 24.963 7.524
+\t (00:06:34) last pick:  25.000 7.500
+\i (00:06:35) pick grid 30.625 11.556
+\t (00:06:35) last pick:  30.600 11.600
+\t (00:06:35) last pick:  31.317 11.608
+\t (00:06:35) Pick new location for the element(s).
+\i (00:06:35) pick grid 24.827 5.078
+\t (00:06:35) last pick:  24.800 5.100
+\i (00:06:36) roam start
+\i (00:06:36) roam x 32
+\i (00:06:36) roam y -64
+\i (00:06:36) roam end
+\i (00:06:36) pick grid 32.210 19.482
+\t (00:06:36) last pick:  32.200 19.500
+\t (00:06:36) last pick:  31.648 19.507
+\t (00:06:36) Pick new location for the element(s).
+\i (00:06:37) pick grid 23.649 23.061
+\t (00:06:37) last pick:  23.600 23.100
+\i (00:06:38) pick grid 35.697 29.855
+\t (00:06:38) last pick:  35.700 29.900
+\t (00:06:38) last pick:  35.230 30.023
+\t (00:06:38) Pick new location for the element(s).
+\i (00:06:39) iangle -90 
+\t (00:06:39) last pick:  270.000 0.000
+\i (00:06:39) iangle -90 
+\t (00:06:39) last pick:  270.000 0.000
+\i (00:06:39) iangle -90 
+\t (00:06:39) last pick:  270.000 0.000
+\i (00:06:40) pick grid 29.990 32.029
+\t (00:06:40) last pick:  30.000 32.000
+\i (00:06:41) pick grid 33.478 24.465
+\t (00:06:41) last pick:  33.500 24.500
+\t (00:06:41) last pick:  32.690 24.181
+\t (00:06:41) Pick new location for the element(s).
+\i (00:06:41) iangle -90 
+\t (00:06:41) last pick:  270.000 0.000
+\i (00:06:41) iangle -90 
+\t (00:06:41) last pick:  270.000 0.000
+\i (00:06:41) iangle -90 
+\t (00:06:41) last pick:  270.000 0.000
+\i (00:06:42) pick grid 33.251 31.803
+\t (00:06:42) last pick:  33.300 31.800
+\i (00:06:42) pick grid 31.621 24.238
+\t (00:06:42) last pick:  31.600 24.200
+\t (00:06:42) last pick:  31.547 24.130
+\t (00:06:42) Pick new location for the element(s).
+\i (00:06:43) iangle -90 
+\t (00:06:43) last pick:  270.000 0.000
+\i (00:06:43) iangle -90 
+\t (00:06:43) last pick:  270.000 0.000
+\i (00:06:43) iangle -90 
+\t (00:06:43) last pick:  270.000 0.000
+\i (00:06:45) pick grid 36.920 29.855
+\t (00:06:45) last pick:  36.900 29.900
+\i (00:06:45) pick grid 30.262 23.740
+\t (00:06:45) last pick:  30.300 23.700
+\t (00:06:45) last pick:  30.277 24.130
+\t (00:06:45) Pick new location for the element(s).
+\i (00:06:46) iangle -90 
+\t (00:06:46) last pick:  270.000 0.000
+\i (00:06:46) iangle -90 
+\t (00:06:46) last pick:  270.000 0.000
+\i (00:06:46) iangle -90 
+\t (00:06:46) last pick:  270.000 0.000
+\i (00:06:47) pick grid 37.056 28.496
+\t (00:06:47) last pick:  37.100 28.500
+\i (00:06:48) roam start
+\i (00:06:48) roam x -64
+\i (00:06:48) roam x -48
+\i (00:06:48) roam y -16
+\i (00:06:48) roam end
+\i (00:06:49) pick grid 42.084 24.147
+\t (00:06:49) last pick:  42.100 24.100
+\t (00:06:49) last pick:  39.779 23.139
+\t (00:06:49) Pick new location for the element(s).
+\i (00:06:50) pick grid 41.042 30.488
+\t (00:06:50) last pick:  41.000 30.500
+\i (00:06:54) pick grid 40.091 18.712
+\t (00:06:54) last pick:  40.100 18.700
+\t (00:06:54) last pick:  40.140 19.135
+\t (00:06:54) Pick new location for the element(s).
+\i (00:06:55) iangle -90 
+\t (00:06:55) last pick:  270.000 0.000
+\i (00:06:55) iangle -90 
+\t (00:06:55) last pick:  270.000 0.000
+\i (00:06:56) pick grid 35.878 22.924
+\t (00:06:56) last pick:  35.900 22.900
+\i (00:06:56) pick grid 38.641 18.893
+\t (00:06:56) last pick:  38.600 18.900
+\t (00:06:56) last pick:  37.905 19.592
+\t (00:06:56) Pick new location for the element(s).
+\i (00:06:57) iangle -90 
+\t (00:06:57) last pick:  270.000 0.000
+\i (00:06:57) iangle -90 
+\t (00:06:57) last pick:  270.000 0.000
+\i (00:06:58) pick grid 39.185 22.924
+\t (00:06:58) last pick:  39.200 22.900
+\i (00:06:59) pick grid 37.600 20.388
+\t (00:06:59) last pick:  37.600 20.400
+\t (00:06:59) last pick:  37.117 20.507
+\t (00:06:59) Pick new location for the element(s).
+\i (00:06:59) pick grid 37.147 19.210
+\t (00:06:59) last pick:  37.100 19.200
+\i (00:07:00) pick grid 39.366 20.161
+\t (00:07:00) last pick:  39.400 20.200
+\t (00:07:00) last pick:  39.784 20.507
+\t (00:07:00) Pick new location for the element(s).
+\i (00:07:01) pick grid 39.864 19.074
+\t (00:07:01) last pick:  39.900 19.100
+\i (00:07:01) roam start
+\i (00:07:01) roam x -96
+\i (00:07:01) roam y -64
+\i (00:07:01) roam x -64
+\i (00:07:01) roam y -64
+\i (00:07:01) roam x -64
+\i (00:07:01) roam y -48
+\i (00:07:01) roam x -16
+\i (00:07:01) roam x -64
+\i (00:07:01) roam y -48
+\i (00:07:01) roam y -32
+\i (00:07:01) roam x -16
+\i (00:07:01) roam y -16
+\i (00:07:02) roam x -16
+\i (00:07:02) roam y -32
+\i (00:07:02) roam end
+\i (00:07:03) pick grid 14.545 41.450
+\t (00:07:03) last pick:  14.500 41.500
+\t (00:07:03) last pick:  15.418 41.173
+\t (00:07:03) Pick new location for the element(s).
+\i (00:07:04) iangle -90 
+\t (00:07:04) last pick:  270.000 0.000
+\i (00:07:04) pick grid 13.865 38.732
+\t (00:07:04) last pick:  13.900 38.700
+\i (00:07:05) pick grid 17.262 38.823
+\t (00:07:05) last pick:  17.300 38.800
+\t (00:07:05) last pick:  17.729 41.732
+\t (00:07:05) Pick new location for the element(s).
+\i (00:07:05) iangle -90 
+\t (00:07:05) last pick:  270.000 0.000
+\i (00:07:07) pick grid 23.785 38.642
+\t (00:07:07) last pick:  23.800 38.600
+\i (00:07:08) pick grid 14.499 40.182
+\t (00:07:08) last pick:  14.500 40.200
+\t (00:07:08) last pick:  13.900 38.700
+\t (00:07:08) Pick new location for the element(s).
+\i (00:07:09) pick grid 13.729 43.126
+\t (00:07:09) last pick:  13.700 43.100
+\i (00:07:10) pick grid 15.224 39.095
+\t (00:07:10) last pick:  15.200 39.100
+\t (00:07:10) last pick:  23.800 38.600
+\t (00:07:10) Pick new location for the element(s).
+\i (00:07:13) pick grid 23.830 40.408
+\t (00:07:13) last pick:  23.800 40.400
+\i (00:07:13) pick grid 19.572 43.534
+\t (00:07:13) last pick:  19.600 43.500
+\t (00:07:13) last pick:  19.888 42.620
+\t (00:07:13) Pick new location for the element(s).
+\i (00:07:14) iangle -90 
+\t (00:07:14) last pick:  270.000 0.000
+\i (00:07:14) pick grid 14.635 38.189
+\t (00:07:14) last pick:  14.600 38.200
+\i (00:07:15) pick grid 20.342 42.809
+\t (00:07:15) last pick:  20.300 42.800
+\t (00:07:15) last pick:  21.158 41.731
+\t (00:07:15) Pick new location for the element(s).
+\i (00:07:15) iangle -90 
+\t (00:07:15) last pick:  270.000 0.000
+\i (00:07:16) pick grid 14.545 30.760
+\t (00:07:16) last pick:  14.500 30.800
+\i (00:07:17) pick grid 22.517 39.502
+\t (00:07:17) last pick:  22.500 39.500
+\t (00:07:17) last pick:  23.317 40.842
+\t (00:07:17) Pick new location for the element(s).
+\i (00:07:17) iangle -90 
+\t (00:07:17) last pick:  270.000 0.000
+\i (00:07:18) pick grid 19.799 30.942
+\t (00:07:18) last pick:  19.800 30.900
+\i (00:07:20) roam start
+\i (00:07:20) roam x 16
+\i (00:07:20) roam y -80
+\i (00:07:20) roam x 16
+\i (00:07:20) roam y -48
+\i (00:07:20) roam y -48
+\i (00:07:20) roam y -32
+\i (00:07:20) roam y -32
+\i (00:07:20) roam end
+\i (00:07:22) pick grid 6.845 45.255
+\t (00:07:22) last pick:  6.800 45.300
+\t (00:07:22) last pick:  6.499 45.508
+\t (00:07:22) Pick new location for the element(s).
+\i (00:07:23) iangle -90 
+\t (00:07:23) last pick:  270.000 0.000
+\i (00:07:23) iangle -90 
+\t (00:07:23) last pick:  270.000 0.000
+\i (00:07:23) iangle -90 
+\t (00:07:23) last pick:  270.000 0.000
+\i (00:07:24) pick grid 4.445 50.736
+\t (00:07:24) last pick:  4.400 50.700
+\i (00:07:24) pick grid 8.385 44.938
+\t (00:07:24) last pick:  8.400 44.900
+\t (00:07:24) last pick:  8.124 40.326
+\t (00:07:24) Pick new location for the element(s).
+\i (00:07:24) iangle -90 
+\t (00:07:24) last pick:  270.000 0.000
+\i (00:07:25) iangle -90 
+\t (00:07:25) last pick:  270.000 0.000
+\i (00:07:25) iangle -90 
+\t (00:07:25) last pick:  270.000 0.000
+\i (00:07:26) pick grid 10.061 49.241
+\t (00:07:26) last pick:  10.100 49.200
+\i (00:07:27) pick grid 7.072 41.269
+\t (00:07:27) last pick:  7.100 41.300
+\t (00:07:27) last pick:  6.499 40.453
+\t (00:07:27) Pick new location for the element(s).
+\i (00:07:27) iangle -90 
+\t (00:07:27) last pick:  270.000 0.000
+\i (00:07:28) pick grid 4.580 47.973
+\t (00:07:28) last pick:  4.600 48.000
+\i (00:07:28) pick grid 28.496 53.544
+\t (00:07:28) last pick:  28.500 53.500
+\t (00:07:28) last pick:  27.813 53.162
+\t (00:07:28) Pick new location for the element(s).
+\i (00:07:28) iangle -90 
+\t (00:07:28) last pick:  270.000 0.000
+\i (00:07:29) iangle -90 
+\t (00:07:29) last pick:  270.000 0.000
+\i (00:07:29) iangle -90 
+\t (00:07:29) last pick:  270.000 0.000
+\i (00:07:30) pick grid 24.148 57.349
+\t (00:07:30) last pick:  24.100 57.300
+\i (00:07:30) pick grid 26.865 52.910
+\t (00:07:30) last pick:  26.900 52.900
+\t (00:07:30) last pick:  26.467 52.730
+\t (00:07:30) Pick new location for the element(s).
+\i (00:07:30) iangle -90 
+\t (00:07:30) last pick:  270.000 0.000
+\i (00:07:31) iangle -90 
+\t (00:07:31) last pick:  270.000 0.000
+\i (00:07:31) iangle -90 
+\t (00:07:31) last pick:  270.000 0.000
+\i (00:07:32) pick grid 28.994 57.258
+\t (00:07:32) last pick:  29.000 57.300
+\i (00:07:32) pick grid 26.277 52.910
+\t (00:07:32) last pick:  26.300 52.900
+\t (00:07:32) last pick:  25.679 52.756
+\t (00:07:32) Pick new location for the element(s).
+\i (00:07:33) iangle -90 
+\t (00:07:33) last pick:  270.000 0.000
+\i (00:07:34) pick grid 28.813 53.589
+\t (00:07:34) last pick:  28.800 53.600
+\i (00:07:34) pick grid 24.148 52.095
+\t (00:07:34) last pick:  24.100 52.100
+\t (00:07:34) last pick:  23.901 51.867
+\t (00:07:34) Pick new location for the element(s).
+\i (00:07:34) iangle -90 
+\t (00:07:34) last pick:  270.000 0.000
+\i (00:07:35) pick grid 24.782 53.363
+\t (00:07:35) last pick:  24.800 53.400
+\i (00:07:35) roam start
+\i (00:07:35) roam x 176
+\i (00:07:35) roam y 16
+\i (00:07:35) roam x 160
+\i (00:07:35) roam y 16
+\i (00:07:35) roam x 80
+\i (00:07:35) roam x 112
+\i (00:07:35) roam y 16
+\i (00:07:35) roam x 96
+\i (00:07:35) roam y 16
+\i (00:07:35) roam x 64
+\i (00:07:35) roam y 16
+\i (00:07:36) roam end
+\i (00:07:36) pick grid 58.435 55.718
+\t (00:07:36) last pick:  58.400 55.700
+\t (00:07:36) last pick:  58.953 55.067
+\t (00:07:36) Pick new location for the element(s).
+\i (00:07:37) pick grid 57.710 55.763
+\t (00:07:37) last pick:  57.700 55.800
+\i (00:07:38) pick grid 58.707 53.408
+\t (00:07:38) last pick:  58.700 53.400
+\t (00:07:38) last pick:  59.512 52.756
+\t (00:07:38) Pick new location for the element(s).
+\i (00:07:39) pick grid 58.163 45.436
+\t (00:07:39) last pick:  58.200 45.400
+\i (00:07:40) pick grid 59.613 51.233
+\t (00:07:40) last pick:  59.600 51.200
+\t (00:07:40) last pick:  60.400 50.597
+\t (00:07:40) Pick new location for the element(s).
+\i (00:07:41) pick grid 51.913 42.945
+\t (00:07:41) last pick:  51.900 42.900
+\i (00:07:41) pick grid 60.292 50.237
+\t (00:07:41) last pick:  60.300 50.200
+\t (00:07:41) last pick:  59.511 49.327
+\t (00:07:41) Pick new location for the element(s).
+\i (00:07:42) pick grid 58.027 51.233
+\t (00:07:42) last pick:  58.000 51.200
+\i (00:07:42) pick grid 57.892 47.383
+\t (00:07:42) last pick:  57.900 47.400
+\t (00:07:42) last pick:  58.622 47.168
+\t (00:07:42) Pick new location for the element(s).
+\i (00:07:43) pick grid 58.073 49.150
+\t (00:07:43) last pick:  58.100 49.200
+\i (00:07:44) roam start
+\i (00:07:44) roam x -32
+\i (00:07:44) roam y -64
+\i (00:07:44) roam x -48
+\i (00:07:44) roam y -48
+\i (00:07:44) roam end
+\i (00:07:44) pick grid 58.617 56.759
+\t (00:07:44) last pick:  58.600 56.800
+\t (00:07:44) last pick:  57.700 55.800
+\t (00:07:44) Pick new location for the element(s).
+\i (00:07:45) pick grid 51.007 58.662
+\t (00:07:45) last pick:  51.000 58.700
+\i (00:07:45) roam start
+\i (00:07:45) roam x 160
+\i (00:07:45) roam y -64
+\i (00:07:45) roam x 64
+\i (00:07:45) roam y -32
+\i (00:07:45) roam x 16
+\i (00:07:46) roam end
+\i (00:07:46) pick grid 66.634 62.060
+\t (00:07:46) last pick:  66.600 62.100
+\t (00:07:46) last pick:  66.675 62.230
+\t (00:07:46) Pick new location for the element(s).
+\i (00:07:46) iangle -90 
+\t (00:07:46) last pick:  270.000 0.000
+\i (00:07:47) iangle -90 
+\t (00:07:47) last pick:  270.000 0.000
+\i (00:07:48) pick grid 66.317 61.335
+\t (00:07:48) last pick:  66.300 61.300
+\i (00:07:48) pick grid 77.913 56.171
+\t (00:07:48) last pick:  77.900 56.200
+\i (00:07:48) pick grid 77.913 56.624
+\t (00:07:48) last pick:  77.900 56.600
+\t (00:07:48) last pick:  77.605 57.235
+\t (00:07:49) Pick new location for the element(s).
+\i (00:07:49) iangle -90 
+\t (00:07:49) last pick:  270.000 0.000
+\i (00:07:49) iangle -90 
+\t (00:07:49) last pick:  270.000 0.000
+\i (00:07:50) pick grid 73.746 60.655
+\t (00:07:50) last pick:  73.700 60.700
+\i (00:07:50) pick grid 76.509 56.534
+\t (00:07:50) last pick:  76.500 56.500
+\t (00:07:50) last pick:  75.997 56.540
+\t (00:07:50) Pick new location for the element(s).
+\i (00:07:50) iangle -90 
+\t (00:07:50) last pick:  270.000 0.000
+\i (00:07:50) iangle -90 
+\t (00:07:50) last pick:  270.000 0.000
+\i (00:07:51) iangle -90 
+\t (00:07:51) last pick:  270.000 0.000
+\i (00:07:51) pick grid 78.320 60.837
+\t (00:07:51) last pick:  78.300 60.800
+\i (00:07:52) pick grid 75.829 56.715
+\t (00:07:52) last pick:  75.800 56.700
+\t (00:07:52) last pick:  75.209 56.566
+\t (00:07:52) Pick new location for the element(s).
+\i (00:07:52) iangle -90 
+\t (00:07:52) last pick:  270.000 0.000
+\i (00:07:53) pick grid 78.184 57.394
+\t (00:07:53) last pick:  78.200 57.400
+\i (00:07:53) pick grid 74.017 55.990
+\t (00:07:53) last pick:  74.000 56.000
+\t (00:07:53) last pick:  73.431 55.677
+\t (00:07:53) Pick new location for the element(s).
+\i (00:07:53) iangle -90 
+\t (00:07:53) last pick:  270.000 0.000
+\i (00:07:54) pick grid 73.972 57.077
+\t (00:07:54) last pick:  74.000 57.100
+\i (00:07:54) roam start
+\i (00:07:54) roam x 96
+\i (00:07:54) roam y 32
+\i (00:07:54) roam x 16
+\i (00:07:54) roam y 16
+\i (00:07:55) roam x 32
+\i (00:07:55) roam y 48
+\i (00:07:55) roam x 16
+\i (00:07:55) roam y 32
+\i (00:07:55) roam end
+\i (00:07:57) pick grid 78.818 50.237
+\t (00:07:57) last pick:  78.800 50.200
+\t (00:07:57) last pick:  81.737 49.581
+\t (00:07:57) Pick new location for the element(s).
+\i (00:08:01) pick grid 70.031 42.266
+\t (00:08:01) last pick:  70.000 42.300
+\i (00:08:01) pick grid 82.215 49.014
+\t (00:08:01) last pick:  82.200 49.000
+\t (00:08:01) last pick:  81.737 48.311
+\t (00:08:01) Pick new location for the element(s).
+\i (00:08:02) pick grid 74.878 39.684
+\t (00:08:02) last pick:  74.900 39.700
+\i (00:08:03) pick grid 80.540 52.321
+\t (00:08:03) last pick:  80.500 52.300
+\t (00:08:03) last pick:  81.178 51.892
+\t (00:08:03) Pick new location for the element(s).
+\i (00:08:04) pick grid 72.930 55.039
+\t (00:08:04) last pick:  72.900 55.000
+\i (00:08:05) pick grid 87.243 44.621
+\t (00:08:05) last pick:  87.200 44.600
+\t (00:08:05) last pick:  86.275 44.585
+\t (00:08:05) Pick new location for the element(s).
+\i (00:08:05) iangle -90 
+\t (00:08:05) last pick:  270.000 0.000
+\i (00:08:06) iangle -90 
+\t (00:08:06) last pick:  270.000 0.000
+\i (00:08:06) iangle -90 
+\t (00:08:06) last pick:  270.000 0.000
+\i (00:08:07) pick grid 83.756 49.241
+\t (00:08:07) last pick:  83.800 49.200
+\i (00:08:07) pick grid 86.700 43.624
+\t (00:08:07) last pick:  86.700 43.600
+\t (00:08:07) last pick:  86.970 42.977
+\t (00:08:07) Pick new location for the element(s).
+\i (00:08:08) pick grid 83.937 47.610
+\t (00:08:08) last pick:  83.900 47.600
+\i (00:08:08) pick grid 81.174 47.384
+\t (00:08:08) last pick:  81.200 47.400
+\t (00:08:08) last pick:  81.736 47.041
+\t (00:08:08) Pick new location for the element(s).
+\i (00:08:10) pick grid 69.986 51.868
+\t (00:08:10) last pick:  70.000 51.900
+\i (00:08:10) pick grid 81.445 45.436
+\t (00:08:10) last pick:  81.400 45.400
+\t (00:08:10) last pick:  82.625 44.882
+\t (00:08:10) Pick new location for the element(s).
+\i (00:08:12) pick grid 69.986 50.102
+\t (00:08:12) last pick:  70.000 50.100
+\i (00:08:12) pick grid 62.693 46.251
+\t (00:08:12) last pick:  62.700 46.300
+\t (00:08:12) last pick:  58.200 45.400
+\t (00:08:12) Pick new location for the element(s).
+\i (00:08:14) pick grid 51.823 45.753
+\t (00:08:14) last pick:  51.800 45.800
+\i (00:08:15) pick grid 86.473 42.447
+\t (00:08:15) last pick:  86.500 42.400
+\t (00:08:15) last pick:  86.944 42.189
+\t (00:08:15) Pick new location for the element(s).
+\i (00:08:16) pick grid 86.926 45.663
+\t (00:08:16) last pick:  86.900 45.700
+\i (00:08:16) pick grid 86.428 40.861
+\t (00:08:16) last pick:  86.400 40.900
+\t (00:08:16) last pick:  86.055 40.411
+\t (00:08:16) Pick new location for the element(s).
+\i (00:08:17) pick grid 87.107 44.349
+\t (00:08:17) last pick:  87.100 44.300
+\i (00:08:18) roam start
+\i (00:08:18) roam x 16
+\i (00:08:18) roam y 112
+\i (00:08:18) roam x 32
+\i (00:08:18) roam y 128
+\i (00:08:18) roam x 48
+\i (00:08:18) roam y 80
+\i (00:08:18) roam x 16
+\i (00:08:18) roam y 16
+\i (00:08:18) roam x 16
+\i (00:08:18) roam y 32
+\i (00:08:18) roam x 16
+\i (00:08:18) roam y 32
+\i (00:08:18) roam y 16
+\i (00:08:18) roam y 32
+\i (00:08:18) roam end
+\i (00:08:20) pick grid 91.183 34.294
+\t (00:08:20) last pick:  91.200 34.300
+\t (00:08:20) last pick:  91.901 32.032
+\t (00:08:20) Pick new location for the element(s).
+\i (00:08:20) iangle -90 
+\t (00:08:20) last pick:  270.000 0.000
+\i (00:08:20) pick grid 89.825 34.565
+\t (00:08:20) last pick:  89.800 34.600
+\i (00:08:21) pick grid 93.312 29.221
+\t (00:08:21) last pick:  93.300 29.200
+\t (00:08:21) last pick:  93.603 29.288
+\t (00:08:21) Pick new location for the element(s).
+\i (00:08:22) iangle -90 
+\t (00:08:22) last pick:  270.000 0.000
+\i (00:08:22) pick grid 95.532 36.196
+\t (00:08:22) last pick:  95.500 36.200
+\i (00:08:23) pick grid 93.493 33.025
+\t (00:08:23) last pick:  93.500 33.000
+\t (00:08:23) last pick:  93.552 32.819
+\t (00:08:23) Pick new location for the element(s).
+\i (00:08:23) iangle -90 
+\t (00:08:23) last pick:  270.000 0.000
+\i (00:08:24) pick grid 92.135 33.116
+\t (00:08:24) last pick:  92.100 33.100
+\i (00:08:24) roam start
+\i (00:08:24) roam x -144
+\i (00:08:24) roam y 80
+\i (00:08:24) roam x -96
+\i (00:08:24) roam y 32
+\i (00:08:24) roam x -80
+\i (00:08:24) roam y 32
+\i (00:08:24) roam x -16
+\i (00:08:25) roam x -16
+\i (00:08:25) roam x -32
+\i (00:08:25) roam y 16
+\i (00:08:25) roam x -48
+\i (00:08:25) roam y 16
+\i (00:08:25) roam x -32
+\i (00:08:25) roam x -16
+\i (00:08:25) roam y 16
+\i (00:08:25) roam end
+\i (00:08:26) roam start
+\i (00:08:26) roam x -160
+\i (00:08:26) roam y 48
+\i (00:08:26) roam x -80
+\i (00:08:26) roam y 16
+\i (00:08:26) roam x -48
+\i (00:08:26) roam x -32
+\i (00:08:26) roam x -48
+\i (00:08:26) roam x -16
+\i (00:08:26) roam y -16
+\i (00:08:27) roam x -48
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -64
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -48
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -64
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -48
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -48
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -16
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -32
+\i (00:08:27) roam x -32
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -32
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -16
+\i (00:08:27) roam x -16
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -16
+\i (00:08:27) roam y -16
+\i (00:08:28) roam y -16
+\i (00:08:28) roam x -16
+\i (00:08:28) roam y -32
+\i (00:08:28) roam y -32
+\i (00:08:28) roam y -16
+\i (00:08:28) roam x -16
+\i (00:08:28) roam y -16
+\i (00:08:28) roam y -16
+\i (00:08:28) roam y -16
+\i (00:08:28) roam end
+\i (00:08:28) roam start
+\i (00:08:28) roam x 32
+\i (00:08:28) roam y 64
+\i (00:08:28) roam x 32
+\i (00:08:28) roam y 48
+\i (00:08:28) roam y 16
+\i (00:08:28) roam x 16
+\i (00:08:28) roam y 16
+\i (00:08:29) roam end
+\i (00:08:29) pick grid 9.925 18.667
+\t (00:08:29) last pick:  9.900 18.700
+\t (00:08:29) last pick:  8.708 22.202
+\t (00:08:29) Pick new location for the element(s).
+\i (00:08:29) iangle -90 
+\t (00:08:29) last pick:  270.000 0.000
+\i (00:08:29) iangle -90 
+\t (00:08:29) last pick:  270.000 0.000
+\i (00:08:30) iangle -90 
+\t (00:08:30) last pick:  270.000 0.000
+\i (00:08:38) pick grid 17.262 25.914
+\t (00:08:38) last pick:  17.300 25.900
+\i (00:08:38) pick grid 6.935 29.809
+\t (00:08:38) last pick:  6.900 29.800
+\t (00:08:38) last pick:  6.575 30.178
+\t (00:08:38) Pick new location for the element(s).
+\i (00:08:39) iangle -90 
+\t (00:08:39) last pick:  270.000 0.000
+\i (00:08:39) iangle -90 
+\t (00:08:39) last pick:  270.000 0.000
+\i (00:08:39) iangle -90 
+\t (00:08:39) last pick:  270.000 0.000
+\i (00:08:40) pick grid 7.524 28.224
+\t (00:08:40) last pick:  7.500 28.200
+\i (00:08:41) roam start
+\i (00:08:41) roam x 96
+\i (00:08:41) roam y -80
+\i (00:08:41) roam x 48
+\i (00:08:41) roam y -80
+\i (00:08:41) roam x 32
+\i (00:08:41) roam y -80
+\i (00:08:41) roam x 32
+\i (00:08:41) roam y -64
+\i (00:08:42) roam end
+\i (00:08:42) pick grid 6.981 22.743
+\t (00:08:42) last pick:  7.000 22.700
+\t (00:08:42) last pick:  6.600 23.066
+\t (00:08:42) Pick new location for the element(s).
+\i (00:08:42) iangle -90 
+\t (00:08:42) last pick:  270.000 0.000
+\i (00:08:43) pick grid 8.566 24.373
+\t (00:08:43) last pick:  8.600 24.400
+\i (00:08:44) zoom out 1 
+\i (00:08:44) setwindow pcb
+\i (00:08:44) zoom out 29.176 35.154
+\i (00:08:44) trapsize 453
+\i (00:08:45) zoom in 1 
+\i (00:08:45) setwindow pcb
+\i (00:08:45) zoom in 31.531 36.421
+\i (00:08:45) trapsize 226
+\i (00:08:45) zoom in 1 
+\i (00:08:45) setwindow pcb
+\i (00:08:45) zoom in 31.622 36.422
+\i (00:08:45) trapsize 113
+\i (00:08:45) roam start
+\i (00:08:45) roam x 48
+\i (00:08:45) roam y -160
+\i (00:08:46) roam x 80
+\i (00:08:46) roam y -288
+\i (00:08:46) roam x 48
+\i (00:08:46) roam y -208
+\i (00:08:46) roam x 16
+\i (00:08:46) roam y -48
+\i (00:08:46) roam end
+\i (00:08:46) roam start
+\i (00:08:46) roam x 32
+\i (00:08:46) roam y 112
+\i (00:08:46) roam end
+\i (00:08:47) pick grid 30.692 44.077
+\t (00:08:47) last pick:  30.700 44.100
+\t (00:08:47) last pick:  30.302 44.577
+\t (00:08:47) Pick new location for the element(s).
+\i (00:08:47) iangle -90 
+\t (00:08:47) last pick:  270.000 0.000
+\i (00:08:47) iangle -90 
+\t (00:08:47) last pick:  270.000 0.000
+\i (00:08:48) pick grid 31.802 51.052
+\t (00:08:48) last pick:  31.800 51.100
+\i (00:08:48) pick grid 29.651 45.481
+\t (00:08:48) last pick:  29.700 45.500
+\t (00:08:48) last pick:  29.870 45.923
+\t (00:08:48) Pick new location for the element(s).
+\i (00:08:48) iangle -90 
+\t (00:08:48) last pick:  270.000 0.000
+\i (00:08:48) iangle -90 
+\t (00:08:48) last pick:  270.000 0.000
+\i (00:08:49) pick grid 32.097 49.716
+\t (00:08:49) last pick:  32.100 49.700
+\i (00:08:50) pick grid 30.239 46.613
+\t (00:08:50) last pick:  30.200 46.600
+\t (00:08:50) last pick:  29.896 46.711
+\t (00:08:50) Pick new location for the element(s).
+\i (00:08:52) pick grid 29.469 49.308
+\t (00:08:52) last pick:  29.500 49.300
+\i (00:08:53) pick grid 30.330 47.995
+\t (00:08:53) last pick:  30.300 48.000
+\t (00:08:53) last pick:  30.785 48.489
+\t (00:08:53) Pick new location for the element(s).
+\i (00:08:54) pick grid 29.469 48.086
+\t (00:08:54) last pick:  29.500 48.100
+\i (00:08:54) zoom out 1 
+\i (00:08:54) setwindow pcb
+\i (00:08:54) zoom out 42.243 51.800
+\i (00:08:54) trapsize 226
+\i (00:08:55) roam start
+\i (00:08:55) roam y 128
+\i (00:08:55) roam y 128
+\i (00:08:55) roam x -16
+\i (00:08:55) roam y 80
+\i (00:08:55) roam x -32
+\i (00:08:55) roam y 64
+\i (00:08:55) roam y 48
+\i (00:08:55) roam x -16
+\i (00:08:55) roam y 32
+\i (00:08:55) roam y 48
+\i (00:08:55) roam x 16
+\i (00:08:55) roam y 32
+\i (00:08:55) roam x 80
+\i (00:08:55) roam y 32
+\i (00:08:55) roam x 48
+\i (00:08:55) roam y 16
+\i (00:08:55) roam x 32
+\i (00:08:55) roam x 48
+\i (00:08:55) roam end
+\i (00:08:56) zoom out 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom out 49.467 24.691
+\i (00:08:56) trapsize 453
+\i (00:08:56) roam start
+\i (00:08:56) roam x 112
+\i (00:08:56) roam y -64
+\i (00:08:57) roam x 80
+\i (00:08:57) roam y -32
+\i (00:08:57) roam x 64
+\i (00:08:57) roam y -48
+\i (00:08:57) roam x 32
+\i (00:08:57) roam y -16
+\i (00:08:57) roam end
+\i (00:08:58) roam start
+\i (00:08:58) roam x 48
+\i (00:08:58) roam y -48
+\i (00:08:58) roam end
+\i (00:09:00) save 
+\i (00:09:01) fillin yes 
+\i (00:09:01) generaledit 
+\i (00:09:03) color192 
+\i (00:09:03) generaledit 
+\i (00:09:04) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:09:18) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:09:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:09:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:09:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:09:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:09:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:23) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:09:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:09:23) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:23) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:23) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 2 0
+\i (00:09:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Ncdrill_Figure Mfg
+\i (00:09:23) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:24) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 2 0
+\i (00:09:24) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Ncdrill_Figure Mfg
+\i (00:09:24) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:25) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:09:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:09:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:25) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:09:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:09:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:26) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 3 0
+\i (00:09:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Ncdrill_Legend Mfg
+\i (00:09:26) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:26) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:09:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Nclegend-1-2 Mfg
+\i (00:09:26) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:26) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 3 0
+\i (00:09:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Ncdrill_Legend Mfg
+\i (00:09:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:09:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Nclegend-1-2 Mfg
+\i (00:09:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 0
+\i (00:09:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged No_Gloss_All Mfg
+\i (00:09:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 6 0
+\i (00:09:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged No_Gloss_Bottom Mfg
+\i (00:09:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:28) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 0
+\i (00:09:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged No_Gloss_All Mfg
+\i (00:09:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:28) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 6 0
+\i (00:09:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged No_Gloss_Bottom Mfg
+\i (00:09:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:29) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:09:29) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:09:37) zoom in 1 
+\i (00:09:37) setwindow pcb
+\i (00:09:37) zoom in 10.695 18.667
+\i (00:09:37) trapsize 226
+\i (00:09:38) roam start
+\i (00:09:38) roam x -16
+\i (00:09:38) roam x -32
+\i (00:09:38) roam y -16
+\i (00:09:39) roam x -32
+\i (00:09:39) roam y -16
+\i (00:09:39) roam y 16
+\i (00:09:40) roam end
+\i (00:09:44) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:09:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:09:44) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:09:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:09:45) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:09:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:09:45) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:09:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:09:47) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:09:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:09:48) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:09:49) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:09:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:09:50) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:51) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:09:57) roam start
+\i (00:09:57) roam x 64
+\i (00:09:57) roam y -64
+\i (00:09:57) roam x 16
+\i (00:09:57) roam x 48
+\i (00:09:57) roam y -32
+\i (00:09:57) roam x 16
+\i (00:09:57) roam y -16
+\i (00:09:57) roam x 32
+\i (00:09:57) roam y -32
+\i (00:09:57) roam x 32
+\i (00:09:57) roam y -32
+\i (00:09:57) roam x 32
+\i (00:09:57) roam y -16
+\i (00:09:58) roam x -16
+\i (00:09:58) roam y 16
+\i (00:09:58) roam x -32
+\i (00:09:58) roam y 16
+\i (00:09:58) roam x -16
+\i (00:09:58) roam y 16
+\i (00:09:58) roam x -16
+\i (00:09:58) roam y 16
+\i (00:09:58) roam x -16
+\i (00:09:59) roam end
+\i (00:10:00) zoom out 1 
+\i (00:10:00) setwindow pcb
+\i (00:10:00) zoom out 15.269 21.747
+\i (00:10:00) trapsize 453
+\i (00:10:01) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:10:03) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:10:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:10:03) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:10:05) roam start
+\i (00:10:05) roam x 64
+\i (00:10:05) roam y 64
+\i (00:10:05) roam x 80
+\i (00:10:05) roam y 32
+\i (00:10:05) roam x 64
+\i (00:10:05) roam y 16
+\i (00:10:05) roam x 48
+\i (00:10:05) roam y 32
+\i (00:10:06) roam x -16
+\i (00:10:06) roam x -48
+\i (00:10:06) roam x -16
+\i (00:10:06) roam x -16
+\i (00:10:06) roam y -16
+\i (00:10:06) roam x -16
+\i (00:10:06) roam y -16
+\i (00:10:07) roam end
+\i (00:10:08) pick grid 40.499 41.315
+\t (00:10:08) last pick:  40.500 41.300
+\i (00:10:39) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:10:41) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:10:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:10:48) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:10:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:10:51) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:10:52) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:10:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:10:52) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:10:55) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:10:56) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:11:05) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:05) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:06) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:06) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:06) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:06) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:06) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:06) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:08) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:08) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:08) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:11:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:11:08) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:09) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:11:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:11:09) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:09) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:09) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:10) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:10) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:12) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:12) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:30) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:30) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:30) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:31) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:31) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:32) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:32) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:32) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:36) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:36) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:37) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:37) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:48) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:48) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:49) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:49) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:52) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:11:53) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:11:55) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:11:56) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:11:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:11:56) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:12:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:12:35) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:12:37) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 0
+\i (00:12:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:12:37) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:38) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 2
+\i (00:12:38) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top Tol
+\i (00:12:38) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:39) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 3
+\i (00:12:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top UserPart
+\i (00:12:39) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:40) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 4
+\i (00:12:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top DevType
+\i (00:12:40) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:41) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:12:42) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:44) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 0
+\i (00:12:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:12:44) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:45) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 0
+\i (00:12:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:12:45) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:57) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 3
+\i (00:12:57) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top UserPart
+\i (00:12:57) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:58) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 3
+\i (00:12:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top UserPart
+\i (00:12:58) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:59) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 4
+\i (00:12:59) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top DevType
+\i (00:12:59) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:59) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 4
+\i (00:12:59) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top DevType
+\i (00:12:59) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:00) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 2
+\i (00:13:00) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top Tol
+\i (00:13:00) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:01) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 2
+\i (00:13:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top Tol
+\i (00:13:01) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:01) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:13:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:13:02) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:13:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:13:04) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:13:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:13:07) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:13:07) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:13:08) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:13:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:13:10) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:13:10) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:13:11) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 1
+\i (00:13:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top RefDes
+\i (00:13:11) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:11) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:13:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 14 0
+\i (00:13:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Xsection_Chart Mfg
+\i (00:13:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 14 0
+\i (00:13:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Xsection_Chart Mfg
+\i (00:13:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 13 0
+\i (00:13:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Probe_Top Mfg
+\i (00:13:14) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:14) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 13 0
+\i (00:13:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Probe_Top Mfg
+\i (00:13:14) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:14) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 12 0
+\i (00:13:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Probe_Bottom Mfg
+\i (00:13:14) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:14) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 12 0
+\i (00:13:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Probe_Bottom Mfg
+\i (00:13:14) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:13:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:13:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:17) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:13:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:13:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:13:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:22) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:13:25) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:13:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top CnsRgn
+\i (00:13:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:25) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:13:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top CnsRgn
+\i (00:13:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:26) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:13:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top CnsRgn
+\i (00:13:28) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:13:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top CnsRgn
+\i (00:13:29) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:13:30) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:13:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top Pin
+\i (00:13:31) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:13:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top Pin
+\i (00:13:32) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:13:32) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Bottom Pin
+\i (00:13:33) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:13:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Bottom Pin
+\i (00:13:33) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (00:13:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Soldermask_Top Pin
+\i (00:13:34) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (00:13:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Soldermask_Top Pin
+\i (00:13:34) QtSignal CVDLayerTable VertHeader clickedCheckBox 3
+\i (00:13:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Soldermask_Bottom Pin
+\i (00:13:35) QtSignal CVDLayerTable VertHeader clickedCheckBox 3
+\i (00:13:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Soldermask_Bottom Pin
+\i (00:13:35) QtSignal CVDLayerTable VertHeader clickedCheckBox 4
+\i (00:13:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Pastemask_Top Pin
+\i (00:13:36) QtSignal CVDLayerTable VertHeader clickedCheckBox 4
+\i (00:13:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Pastemask_Top Pin
+\i (00:13:37) QtSignal CVDLayerTable VertHeader clickedCheckBox 5
+\i (00:13:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Pastemask_Bottom Pin
+\i (00:13:37) QtSignal CVDLayerTable VertHeader clickedCheckBox 5
+\i (00:13:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Pastemask_Bottom Pin
+\i (00:13:37) QtSignal CVDLayerTable VertHeader clickedCheckBox 6
+\i (00:13:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Filmmasktop Pin
+\i (00:13:38) QtSignal CVDLayerTable VertHeader clickedCheckBox 6
+\i (00:13:38) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Filmmasktop Pin
+\i (00:13:38) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:13:38) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Filmmaskbottom Pin
+\i (00:13:39) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:13:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Filmmaskbottom Pin
+\i (00:13:40) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:13:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged "Through All" Pin
+\i (00:13:41) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:13:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged "Through All" Pin
+\i (00:13:42) QtSignal CVDLayerTable VertHeader clickedCheckBox 12
+\i (00:13:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Multi_User_Lock Pin
+\i (00:13:42) QtSignal CVDLayerTable VertHeader clickedCheckBox 12
+\i (00:13:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Multi_User_Lock Pin
+\i (00:13:43) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:13:46) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (00:13:48) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:13:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Bend_Area RgdFlex
+\i (00:13:49) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:13:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Bend_Area RgdFlex
+\i (00:13:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (00:13:51) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:13:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Carbon_Bottom SurFin
+\i (00:13:51) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:13:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Carbon_Bottom SurFin
+\i (00:13:52) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:13:53) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:13:53) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Drawing_Origin Drawing
+\i (00:13:53) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:13:53) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Drawing_Origin Drawing
+\i (00:13:54) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:13:55) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:13:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:13:59) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:13:59) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:14:00) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:14:00) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:14:03) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:14:03) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:14:04) zoom in 1 
+\i (00:14:04) setwindow pcb
+\i (00:14:04) zoom in 9.336 42.221
+\i (00:14:04) trapsize 226
+\i (00:14:05) roam start
+\i (00:14:05) roam x -80
+\i (00:14:05) roam x -64
+\i (00:14:05) roam x -32
+\i (00:14:05) roam end
+\i (00:14:07) move 
+\t (00:14:07) Select element(s) to move.
+\i (00:14:08) pick grid 7.116 45.573
+\t (00:14:08) last pick:  7.100 45.600
+\t (00:14:08) last pick:  6.499 45.508
+\t (00:14:08) Pick new location for the element(s).
+\i (00:14:12) pick grid 7.116 45.573
+\t (00:14:12) last pick:  7.100 45.600
+\i (00:14:12) prepopup 10.106 46.569
+\i (00:14:12) done 
+\i (00:14:13) generaledit 
+\i (00:14:14) move 
+\t (00:14:14) Select element(s) to move.
+\i (00:14:14) pick grid 7.569 45.618
+\t (00:14:14) last pick:  7.600 45.600
+\t (00:14:14) last pick:  7.100 45.600
+\t (00:14:14) Pick new location for the element(s).
+\i (00:14:15) prepopup 7.886 45.663
+\i (00:14:17) rotate 
+\t (00:14:17) Spin the element(s).
+\i (00:14:19) iangle -270.000
+\t (00:14:19) last angle:  0.000 Degrees
+\i (00:14:24) pick grid 4.308 37.601
+\t (00:14:24) last pick:  4.300 37.600
+\i (00:14:25) pick grid 7.161 30.625
+\t (00:14:25) last pick:  7.200 30.600
+\t (00:14:25) last pick:  6.575 30.178
+\t (00:14:25) Pick new location for the element(s).
+\i (00:14:26) prepopup 4.489 33.026
+\i (00:14:31) rotate 
+\t (00:14:31) Spin the element(s).
+\i (00:14:32) iangle 90.000
+\t (00:14:32) last angle:  0.000 Degrees
+\i (00:14:34) pick grid 4.670 31.758
+\t (00:14:34) last pick:  4.700 31.800
+\i (00:14:35) pick grid 6.935 35.381
+\t (00:14:35) last pick:  6.900 35.400
+\i (00:14:35) prepopup 7.026 35.517
+\i (00:14:36) done 
+\i (00:14:36) generaledit 
+\e (00:14:36) Command not found: 3rrrrrrrrrrrrrrr
+\i (00:14:39) move 
+\t (00:14:39) Select element(s) to move.
+\i (00:14:40) pick grid 30.398 44.168
+\t (00:14:40) last pick:  30.400 44.200
+\t (00:14:40) last pick:  30.302 44.577
+\t (00:14:40) Pick new location for the element(s).
+\i (00:14:40) iangle -90 
+\t (00:14:40) last pick:  270.000 0.000
+\i (00:14:40) iangle -90 
+\t (00:14:40) last pick:  270.000 0.000
+\i (00:14:41) pick grid 30.126 46.071
+\t (00:14:41) last pick:  30.100 46.100
+\i (00:14:41) pick grid 15.496 42.175
+\t (00:14:41) last pick:  15.500 42.200
+\t (00:14:41) last pick:  15.418 41.173
+\t (00:14:41) Pick new location for the element(s).
+\i (00:14:42) iangle -90 
+\t (00:14:42) last pick:  270.000 0.000
+\i (00:14:45) pick grid 11.691 34.521
+\t (00:14:45) last pick:  11.700 34.500
+\i (00:14:46) roam start
+\i (00:14:46) roam x 48
+\i (00:14:46) roam y -96
+\i (00:14:46) roam x 64
+\i (00:14:46) roam y -80
+\i (00:14:46) roam x 32
+\i (00:14:46) roam y -48
+\i (00:14:46) roam x 16
+\i (00:14:46) roam y -32
+\i (00:14:46) roam end
+\i (00:14:48) pick grid 28.134 52.457
+\t (00:14:48) last pick:  28.100 52.500
+\t (00:14:48) last pick:  27.813 53.162
+\t (00:14:48) Pick new location for the element(s).
+\i (00:14:48) iangle -90 
+\t (00:14:48) last pick:  270.000 0.000
+\i (00:14:49) iangle -90 
+\t (00:14:49) last pick:  270.000 0.000
+\i (00:14:49) iangle -90 
+\t (00:14:49) last pick:  270.000 0.000
+\i (00:14:50) pick grid 26.413 57.077
+\t (00:14:50) last pick:  26.400 57.100
+\i (00:14:50) roam start
+\i (00:14:50) roam x 48
+\i (00:14:50) roam y 64
+\i (00:14:50) roam y 32
+\i (00:14:50) roam end
+\i (00:14:51) roam start
+\i (00:14:51) roam x 16
+\i (00:14:51) roam y 48
+\i (00:14:51) roam x 16
+\i (00:14:51) roam y 32
+\i (00:14:51) roam x 16
+\i (00:14:51) roam y 16
+\i (00:14:51) roam y 16
+\i (00:14:51) roam end
+\i (00:14:52) pick grid 40.725 40.815
+\t (00:14:52) last pick:  40.700 40.800
+\t (00:14:52) last pick:  39.649 41.720
+\t (00:14:52) Pick new location for the element(s).
+\i (00:14:52) iangle -90 
+\t (00:14:52) last pick:  270.000 0.000
+\i (00:14:52) iangle -90 
+\t (00:14:52) last pick:  270.000 0.000
+\i (00:14:52) iangle -90 
+\t (00:14:52) last pick:  270.000 0.000
+\i (00:14:54) pick grid 41.631 33.523
+\t (00:14:54) last pick:  41.600 33.500
+\i (00:14:55) roam start
+\i (00:14:55) roam x 64
+\i (00:14:55) roam x 32
+\i (00:14:55) roam x 32
+\i (00:14:55) roam y 64
+\i (00:14:55) roam y 64
+\i (00:14:55) roam y 48
+\i (00:14:55) roam x -32
+\i (00:14:55) roam y 32
+\i (00:14:55) roam x -48
+\i (00:14:55) roam y 32
+\i (00:14:55) roam x -16
+\i (00:14:56) roam x -32
+\i (00:14:56) roam y 16
+\i (00:14:56) roam x -16
+\i (00:14:56) roam y 16
+\i (00:14:56) roam x -32
+\i (00:14:56) roam y 32
+\i (00:14:56) roam end
+\i (00:14:56) pick grid 42.130 24.691
+\t (00:14:56) last pick:  42.100 24.700
+\t (00:14:56) last pick:  39.779 23.139
+\t (00:14:56) Pick new location for the element(s).
+\i (00:15:05) pick grid 42.583 23.287
+\t (00:15:05) last pick:  42.600 23.300
+\i (00:15:06) roam start
+\i (00:15:06) roam x 32
+\i (00:15:06) roam y -48
+\i (00:15:06) roam y -16
+\i (00:15:06) roam x 16
+\i (00:15:06) roam y -32
+\i (00:15:06) roam x 16
+\i (00:15:06) roam y -16
+\i (00:15:06) roam y -16
+\i (00:15:06) roam end
+\i (00:15:07) pick grid 41.315 41.450
+\t (00:15:07) last pick:  41.300 41.500
+\t (00:15:07) last pick:  39.649 41.720
+\t (00:15:07) Pick new location for the element(s).
+\i (00:15:08) iangle -90 
+\t (00:15:08) last pick:  270.000 0.000
+\i (00:15:08) iangle -90 
+\t (00:15:08) last pick:  270.000 0.000
+\i (00:15:08) iangle -90 
+\t (00:15:08) last pick:  270.000 0.000
+\i (00:15:09) pick grid 41.450 41.405
+\t (00:15:09) last pick:  41.500 41.400
+\i (00:15:09) roam start
+\i (00:15:09) roam y -16
+\i (00:15:09) roam x 80
+\i (00:15:09) roam y -112
+\i (00:15:09) roam x 16
+\i (00:15:09) roam y -16
+\i (00:15:09) roam x 16
+\i (00:15:09) roam y -16
+\i (00:15:10) roam x 16
+\i (00:15:10) roam y -32
+\i (00:15:10) roam y -16
+\i (00:15:10) roam x 16
+\i (00:15:10) roam y -64
+\i (00:15:10) roam y -16
+\i (00:15:10) roam x 16
+\i (00:15:10) roam y -64
+\i (00:15:10) roam end
+\i (00:15:11) pick grid 58.979 55.038
+\t (00:15:11) last pick:  59.000 55.000
+\t (00:15:11) last pick:  58.953 55.067
+\t (00:15:11) Pick new location for the element(s).
+\i (00:15:12) pick grid 54.586 58.481
+\t (00:15:12) last pick:  54.600 58.500
+\i (00:15:13) pick grid 65.774 61.923
+\t (00:15:13) last pick:  65.800 61.900
+\t (00:15:13) last pick:  66.675 62.230
+\t (00:15:13) Pick new location for the element(s).
+\i (00:15:13) iangle -90 
+\t (00:15:13) last pick:  270.000 0.000
+\i (00:15:14) iangle -90 
+\t (00:15:14) last pick:  270.000 0.000
+\i (00:15:14) pick grid 64.143 61.289
+\t (00:15:14) last pick:  64.100 61.300
+\i (00:15:15) pick grid 77.958 57.711
+\t (00:15:15) last pick:  78.000 57.700
+\t (00:15:15) last pick:  77.343 56.972
+\t (00:15:15) Pick new location for the element(s).
+\i (00:15:15) iangle -90 
+\t (00:15:15) last pick:  270.000 0.000
+\i (00:15:16) iangle -90 
+\t (00:15:16) last pick:  270.000 0.000
+\i (00:15:16) iangle -90 
+\t (00:15:16) last pick:  270.000 0.000
+\i (00:15:17) pick grid 75.965 60.700
+\t (00:15:17) last pick:  76.000 60.700
+\i (00:15:18) roam start
+\i (00:15:18) roam x 112
+\i (00:15:18) roam y 48
+\i (00:15:18) roam x 16
+\i (00:15:18) roam y 16
+\i (00:15:18) roam x 16
+\i (00:15:18) roam y 16
+\i (00:15:18) roam end
+\i (00:15:18) roam start
+\i (00:15:18) roam x 96
+\i (00:15:18) roam y 32
+\i (00:15:19) roam x 80
+\i (00:15:19) roam y 32
+\i (00:15:19) roam x 64
+\i (00:15:19) roam y 16
+\i (00:15:19) roam x 16
+\i (00:15:19) roam x 64
+\i (00:15:19) roam y 16
+\i (00:15:19) roam end
+\i (00:15:19) roam start
+\i (00:15:19) roam y -64
+\i (00:15:19) roam x 16
+\i (00:15:19) roam y -64
+\i (00:15:19) roam x 64
+\i (00:15:19) roam y -128
+\i (00:15:19) roam y -32
+\i (00:15:19) roam end
+\i (00:15:20) pick grid 86.971 56.759
+\t (00:15:20) last pick:  87.000 56.800
+\t (00:15:20) last pick:  86.817 57.277
+\t (00:15:20) Pick new location for the element(s).
+\i (00:15:20) iangle -90 
+\t (00:15:20) last pick:  270.000 0.000
+\i (00:15:21) iangle -90 
+\t (00:15:21) last pick:  270.000 0.000
+\i (00:15:21) pick grid 86.201 57.258
+\t (00:15:21) last pick:  86.200 57.300
+\i (00:15:22) roam start
+\i (00:15:22) roam x 16
+\i (00:15:22) roam y 80
+\i (00:15:22) roam x 32
+\i (00:15:22) roam y 48
+\i (00:15:22) roam x 16
+\i (00:15:22) roam y 32
+\i (00:15:22) roam end
+\i (00:15:23) pick grid 85.748 44.983
+\t (00:15:23) last pick:  85.700 45.000
+\t (00:15:23) last pick:  86.538 44.323
+\t (00:15:23) Pick new location for the element(s).
+\i (00:15:24) pick grid 86.564 47.157
+\t (00:15:24) last pick:  86.600 47.200
+\i (00:15:26) pick grid 84.842 49.829
+\t (00:15:26) last pick:  84.800 49.800
+\t (00:15:26) last pick:  83.800 49.200
+\t (00:15:26) Pick new location for the element(s).
+\i (00:15:29) pick grid 84.118 49.512
+\t (00:15:29) last pick:  84.100 49.500
+\i (00:15:29) pick grid 83.076 47.519
+\t (00:15:29) last pick:  83.100 47.500
+\t (00:15:29) last pick:  83.900 47.600
+\t (00:15:29) Pick new location for the element(s).
+\i (00:15:32) pick grid 86.564 49.467
+\t (00:15:32) last pick:  86.600 49.500
+\i (00:15:33) pick grid 84.888 49.784
+\t (00:15:33) last pick:  84.900 49.800
+\t (00:15:33) last pick:  84.100 49.500
+\t (00:15:33) Pick new location for the element(s).
+\i (00:15:34) pick grid 86.971 42.945
+\t (00:15:34) last pick:  87.000 42.900
+\i (00:15:35) pick grid 87.243 49.603
+\t (00:15:35) last pick:  87.200 49.600
+\t (00:15:35) last pick:  86.600 49.500
+\t (00:15:35) Pick new location for the element(s).
+\i (00:15:36) pick grid 87.017 41.631
+\t (00:15:36) last pick:  87.000 41.600
+\i (00:15:36) roam start
+\i (00:15:36) roam y 48
+\i (00:15:36) roam y 16
+\i (00:15:37) roam x -16
+\i (00:15:37) roam y 32
+\i (00:15:37) roam y 16
+\i (00:15:37) roam end
+\i (00:15:38) pick grid 82.396 51.822
+\t (00:15:38) last pick:  82.400 51.800
+\t (00:15:38) last pick:  81.178 51.892
+\t (00:15:38) Pick new location for the element(s).
+\i (00:15:39) pick grid 76.644 54.993
+\t (00:15:39) last pick:  76.600 55.000
+\i (00:15:40) pick grid 92.905 29.537
+\t (00:15:40) last pick:  92.900 29.500
+\t (00:15:40) last pick:  93.603 29.289
+\t (00:15:40) Pick new location for the element(s).
+\i (00:15:40) iangle -90 
+\t (00:15:40) last pick:  270.000 0.000
+\i (00:15:41) pick grid 93.493 36.105
+\t (00:15:41) last pick:  93.500 36.100
+\i (00:15:42) roam start
+\i (00:15:42) roam x 48
+\i (00:15:42) roam y 48
+\i (00:15:42) roam x 64
+\i (00:15:42) roam y 48
+\i (00:15:42) roam y 16
+\i (00:15:42) roam y 16
+\i (00:15:42) roam y 32
+\i (00:15:42) roam x -80
+\i (00:15:42) roam y 32
+\i (00:15:42) roam x -32
+\i (00:15:42) roam y 16
+\i (00:15:43) roam x -16
+\i (00:15:43) roam y 32
+\i (00:15:43) roam y 16
+\i (00:15:43) roam x -16
+\i (00:15:43) roam end
+\i (00:15:45) roam start
+\i (00:15:45) roam x -32
+\i (00:15:45) roam y 80
+\i (00:15:45) roam y 16
+\i (00:15:45) roam x -16
+\i (00:15:45) roam y 48
+\i (00:15:45) roam y 16
+\i (00:15:45) roam x -16
+\i (00:15:45) roam end
+\i (00:15:48) roam start
+\i (00:15:48) roam x -16
+\i (00:15:48) roam y 64
+\i (00:15:48) roam x -48
+\i (00:15:48) roam y 112
+\i (00:15:48) roam x -32
+\i (00:15:48) roam y 80
+\i (00:15:48) roam end
+\i (00:15:49) pick grid 89.191 15.587
+\t (00:15:49) last pick:  89.200 15.600
+\t (00:15:49) last pick:  83.007 14.656
+\t (00:15:49) Pick new location for the element(s).
+\i (00:15:52) pick grid 77.414 7.705
+\t (00:15:52) last pick:  77.400 7.700
+\i (00:15:53) pick grid 77.460 7.705
+\t (00:15:53) last pick:  77.500 7.700
+\t (00:15:53) last pick:  77.400 7.700
+\t (00:15:53) Pick new location for the element(s).
+\i (00:15:53) pick grid 76.916 7.705
+\t (00:15:53) last pick:  76.900 7.700
+\i (00:15:54) roam start
+\i (00:15:54) roam x -96
+\i (00:15:54) roam y 32
+\i (00:15:54) roam x -16
+\i (00:15:54) roam y 16
+\i (00:15:54) roam x -16
+\i (00:15:54) roam x -16
+\i (00:15:54) roam end
+\i (00:15:55) pick grid 46.387 8.204
+\t (00:15:55) last pick:  46.400 8.200
+\t (00:15:55) last pick:  46.076 5.905
+\t (00:15:55) Pick new location for the element(s).
+\i (00:15:55) iangle -90 
+\t (00:15:55) last pick:  270.000 0.000
+\i (00:15:55) pick grid 44.847 7.524
+\t (00:15:55) last pick:  44.800 7.500
+\i (00:15:56) pick grid 51.777 14.092
+\t (00:15:56) last pick:  51.800 14.100
+\t (00:15:56) last pick:  51.435 14.605
+\t (00:15:56) Pick new location for the element(s).
+\i (00:15:56) iangle -90 
+\t (00:15:56) last pick:  270.000 0.000
+\i (00:15:56) iangle -90 
+\t (00:15:56) last pick:  270.000 0.000
+\i (00:15:57) pick grid 49.784 18.531
+\t (00:15:57) last pick:  49.800 18.500
+\i (00:15:58) pick grid 57.212 21.747
+\t (00:15:58) last pick:  57.200 21.700
+\t (00:15:58) last pick:  57.506 19.240
+\t (00:15:58) Pick new location for the element(s).
+\i (00:15:58) iangle -90 
+\t (00:15:58) last pick:  270.000 0.000
+\i (00:15:59) pick grid 48.833 21.973
+\t (00:15:59) last pick:  48.800 22.000
+\i (00:16:00) pick grid 63.916 22.019
+\t (00:16:00) last pick:  63.900 22.000
+\t (00:16:00) last pick:  64.313 22.098
+\t (00:16:00) Pick new location for the element(s).
+\i (00:16:01) pick grid 64.550 21.067
+\t (00:16:01) last pick:  64.600 21.100
+\i (00:16:01) roam start
+\i (00:16:01) roam x -112
+\i (00:16:01) roam y 48
+\i (00:16:01) roam x -144
+\i (00:16:01) roam y 32
+\i (00:16:01) roam x -160
+\i (00:16:01) roam y 32
+\i (00:16:01) roam x -128
+\i (00:16:01) roam x -48
+\i (00:16:02) roam y -32
+\i (00:16:02) roam x 16
+\i (00:16:02) roam y -48
+\i (00:16:02) roam x 16
+\i (00:16:02) roam y -32
+\i (00:16:02) roam x 16
+\i (00:16:02) roam end
+\i (00:16:03) pick grid 40.680 19.392
+\t (00:16:03) last pick:  40.700 19.400
+\t (00:16:03) last pick:  39.878 18.872
+\t (00:16:03) Pick new location for the element(s).
+\i (00:16:04) iangle -90 
+\t (00:16:04) last pick:  270.000 0.000
+\i (00:16:04) iangle -90 
+\t (00:16:04) last pick:  270.000 0.000
+\i (00:16:04) iangle -90 
+\t (00:16:04) last pick:  270.000 0.000
+\i (00:16:08) pick grid 35.879 24.102
+\t (00:16:08) last pick:  35.900 24.100
+\i (00:16:08) roam start
+\i (00:16:08) roam x -16
+\i (00:16:08) roam y -64
+\i (00:16:08) roam y -16
+\i (00:16:08) roam y -16
+\i (00:16:08) roam x -16
+\i (00:16:08) roam y -32
+\i (00:16:09) roam y -16
+\i (00:16:09) roam x -16
+\i (00:16:09) roam y -16
+\i (00:16:09) roam x -16
+\i (00:16:09) roam y -48
+\i (00:16:09) roam y -16
+\i (00:16:09) roam x -16
+\i (00:16:09) roam y -16
+\i (00:16:09) roam y -16
+\i (00:16:09) roam end
+\i (00:16:11) pick grid 35.743 30.851
+\t (00:16:11) last pick:  35.700 30.900
+\t (00:16:11) last pick:  35.230 30.023
+\t (00:16:11) Pick new location for the element(s).
+\i (00:16:11) iangle -90 
+\t (00:16:11) last pick:  270.000 0.000
+\i (00:16:12) iangle -90 
+\t (00:16:12) last pick:  270.000 0.000
+\i (00:16:12) iangle -90 
+\t (00:16:12) last pick:  270.000 0.000
+\i (00:16:15) pick grid 36.513 26.457
+\t (00:16:15) last pick:  36.500 26.500
+\i (00:16:15) roam start
+\i (00:16:15) roam x -16
+\i (00:16:15) roam y -64
+\i (00:16:15) roam y -16
+\i (00:16:15) roam y -32
+\i (00:16:15) roam end
+\i (00:16:16) zoom out 1 
+\i (00:16:16) setwindow pcb
+\i (00:16:16) zoom out 34.430 35.788
+\i (00:16:16) trapsize 453
+\i (00:16:16) roam start
+\i (00:16:16) roam x 96
+\i (00:16:16) roam y 16
+\i (00:16:16) roam x 80
+\i (00:16:16) roam x 64
+\i (00:16:17) roam x 16
+\i (00:16:17) roam y -32
+\i (00:16:17) roam y -16
+\i (00:16:17) roam y -16
+\i (00:16:17) roam x -80
+\i (00:16:17) roam end
+\i (00:16:21) zoom in 1 
+\i (00:16:21) setwindow pcb
+\i (00:16:21) zoom in 15.678 38.143
+\i (00:16:21) trapsize 226
+\i (00:16:22) pick grid 12.100 39.140
+\t (00:16:22) last pick:  12.100 39.100
+\t (00:16:22) last pick:  14.600 38.200
+\t (00:16:22) Pick new location for the element(s).
+\i (00:16:25) pick grid 15.451 28.768
+\t (00:16:25) last pick:  15.500 28.800
+\i (00:16:25) pick grid 15.270 30.806
+\t (00:16:25) last pick:  15.300 30.800
+\t (00:16:25) last pick:  14.500 30.800
+\t (00:16:25) Pick new location for the element(s).
+\i (00:16:26) pick grid 25.144 36.287
+\t (00:16:26) last pick:  25.100 36.300
+\i (00:16:27) pick grid 18.350 31.802
+\t (00:16:27) last pick:  18.400 31.800
+\t (00:16:27) last pick:  19.800 30.900
+\t (00:16:27) Pick new location for the element(s).
+\i (00:16:28) pick grid 25.190 34.520
+\t (00:16:28) last pick:  25.200 34.500
+\i (00:16:28) roam start
+\i (00:16:28) roam x -48
+\i (00:16:28) roam y -96
+\i (00:16:28) roam x -144
+\i (00:16:28) roam y -176
+\i (00:16:28) roam x -80
+\i (00:16:28) roam y -80
+\i (00:16:28) roam x -16
+\i (00:16:28) roam y -16
+\i (00:16:29) roam x 64
+\i (00:16:29) roam x 48
+\i (00:16:29) roam x 32
+\i (00:16:29) roam y 16
+\i (00:16:29) roam x 80
+\i (00:16:29) roam x 96
+\i (00:16:29) roam x 48
+\i (00:16:29) roam x 64
+\i (00:16:29) roam x 96
+\i (00:16:29) roam y -16
+\i (00:16:29) roam x 64
+\i (00:16:29) roam y -16
+\i (00:16:29) roam x 16
+\i (00:16:29) roam x 32
+\i (00:16:29) roam x 16
+\i (00:16:29) roam y -16
+\i (00:16:29) roam x 32
+\i (00:16:29) roam x 16
+\i (00:16:30) roam x 16
+\i (00:16:30) roam x 64
+\i (00:16:30) roam y 32
+\i (00:16:30) roam x 48
+\i (00:16:30) roam y 32
+\i (00:16:30) roam x 32
+\i (00:16:30) roam y 32
+\i (00:16:30) roam x 64
+\i (00:16:30) roam y 32
+\i (00:16:30) roam x 16
+\i (00:16:30) roam y 16
+\i (00:16:30) roam x 16
+\i (00:16:30) roam y 16
+\i (00:16:30) roam end
+\i (00:16:31) pick grid 57.983 52.185
+\t (00:16:31) last pick:  58.000 52.200
+\t (00:16:31) last pick:  58.000 51.200
+\t (00:16:31) Pick new location for the element(s).
+\i (00:16:32) pick grid 59.342 53.091
+\t (00:16:32) last pick:  59.300 53.100
+\i (00:16:32) pick grid 58.889 49.558
+\t (00:16:32) last pick:  58.900 49.600
+\t (00:16:33) last pick:  58.100 49.200
+\t (00:16:33) Pick new location for the element(s).
+\i (00:16:33) pick grid 59.342 51.189
+\t (00:16:33) last pick:  59.300 51.200
+\i (00:16:34) pick grid 68.899 52.095
+\t (00:16:34) last pick:  68.900 52.100
+\t (00:16:34) last pick:  70.000 51.900
+\t (00:16:34) Pick new location for the element(s).
+\i (00:16:35) pick grid 68.718 51.642
+\t (00:16:35) last pick:  68.700 51.600
+\i (00:16:36) pick grid 69.035 50.011
+\t (00:16:36) last pick:  69.000 50.000
+\t (00:16:36) last pick:  70.000 50.100
+\t (00:16:36) Pick new location for the element(s).
+\i (00:16:37) pick grid 68.809 49.150
+\t (00:16:37) last pick:  68.800 49.200
+\i (00:16:38) zoom out 1 
+\i (00:16:38) setwindow pcb
+\i (00:16:38) zoom out 80.359 48.607
+\i (00:16:38) trapsize 453
+\i (00:16:40) save 
+\i (00:16:41) fillin yes 
+\i (00:16:41) generaledit 
+\i (00:16:42) roam start
+\i (00:16:42) roam x 16
+\i (00:16:42) roam y -64
+\i (00:16:42) roam y -16
+\i (00:16:42) roam end
+\i (00:16:48) color192 
+\i (00:16:48) generaledit 
+\i (00:16:49) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:16:50) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:16:56) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkTOP_NEW"
+\i (00:16:56) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkTOP_NEW"
+\i (00:17:09) zoom in 1 
+\i (00:17:09) setwindow pcb
+\i (00:17:09) zoom in 36.422 24.374
+\i (00:17:09) trapsize 226
+\i (00:17:10) move 
+\t (00:17:10) Select element(s) to move.
+\i (00:17:11) pick grid 35.652 24.556
+\t (00:17:11) last pick:  35.700 24.600
+\t (00:17:11) last pick:  35.900 24.100
+\t (00:17:11) Pick new location for the element(s).
+\i (00:17:13) pick grid 36.241 22.835
+\t (00:17:13) last pick:  36.200 22.800
+\i (00:17:14) roam start
+\i (00:17:14) roam x 96
+\i (00:17:14) roam x 240
+\i (00:17:14) roam x 80
+\i (00:17:14) roam x 64
+\i (00:17:14) roam y 16
+\i (00:17:14) roam x 112
+\i (00:17:14) roam y 16
+\i (00:17:14) roam end
+\i (00:17:14) zoom out 1 
+\i (00:17:14) setwindow pcb
+\i (00:17:14) zoom out 87.514 26.820
+\i (00:17:14) trapsize 453
+\i (00:17:15) roam start
+\i (00:17:15) roam y -32
+\i (00:17:15) roam y -32
+\i (00:17:15) roam x -64
+\i (00:17:15) roam y -16
+\i (00:17:15) roam x -48
+\i (00:17:15) roam x -32
+\i (00:17:16) roam y -48
+\i (00:17:16) roam x 16
+\i (00:17:16) roam y -16
+\i (00:17:16) roam x 16
+\i (00:17:16) roam x 16
+\i (00:17:16) roam y 16
+\i (00:17:16) roam x 16
+\i (00:17:16) roam y 16
+\i (00:17:16) roam y 16
+\i (00:17:16) roam y 16
+\i (00:17:16) roam y 16
+\i (00:17:17) roam end
+\i (00:17:17) zoom out 1 
+\i (00:17:17) setwindow pcb
+\i (00:17:17) zoom out 80.177 32.527
+\i (00:17:17) trapsize 906
+\i (00:17:18) zoom in 1 
+\i (00:17:18) setwindow pcb
+\i (00:17:18) zoom in 52.366 29.629
+\i (00:17:18) trapsize 453
+\i (00:17:19) roam start
+\i (00:17:19) roam x -16
+\i (00:17:19) roam x -16
+\i (00:17:19) roam y 16
+\i (00:17:20) roam x -16
+\i (00:17:20) roam x -16
+\i (00:17:20) roam x -16
+\i (00:17:20) roam x -16
+\i (00:17:20) roam end
+\i (00:17:23) prepopup 61.969 40.137
+\i (00:17:24) done 
+\i (00:17:24) generaledit 
+\i (00:17:25) save 
+\i (00:17:26) fillin yes 
+\i (00:17:27) generaledit 
+\i (00:17:29) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:17:29) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:17:32) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: design"
+\i (00:17:32) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: design"
+\i (00:17:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:17:37) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:17:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SolderT"
+\i (00:17:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SolderT"
+\i (00:17:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkB"
+\i (00:17:45) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkB"
+\i (00:17:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkT"
+\i (00:17:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkT"
+\i (00:17:50) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkTOP_NEW"
+\i (00:17:50) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkTOP_NEW"
+\i (00:17:51) zoom out 1 
+\i (00:17:51) setwindow pcb
+\i (00:17:51) zoom out 117.047 51.823
+\i (00:17:51) trapsize 906
+\i (00:17:52) roam start
+\i (00:17:52) roam y -16
+\i (00:17:52) roam y -16
+\i (00:17:52) roam end
+\i (00:17:53) zoom in 1 
+\i (00:17:53) setwindow pcb
+\i (00:17:53) zoom in 60.520 33.162
+\i (00:17:53) trapsize 453
+\i (00:17:54) zoom out 1 
+\i (00:17:54) setwindow pcb
+\i (00:17:54) zoom out 107.898 35.879
+\i (00:17:54) trapsize 906
+\i (00:17:55) roam start
+\i (00:17:55) roam y -48
+\i (00:17:55) roam y -16
+\i (00:17:55) roam end
+\i (00:17:59) artwork 
+\i (00:18:03) setwindow form.film_control
+\i (00:18:03) FORM film_control create  
+\i (00:18:04) fillin yes 
+\w (00:18:04) No film records selected.
+\i (00:18:06) FORM film_control create  
+\i (00:18:30) fillin no 
+\i (00:18:31) FORM film_control cancel  
+\i (00:18:31) setwindow pcb
+\i (00:18:31) generaledit 
+\i (00:18:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: design"
+\i (00:18:33) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: design"
+\i (00:18:36) color192 
+\i (00:18:36) generaledit 
+\i (00:18:37) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:18:38) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:18:48) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:18:50) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:18:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom CmpVal
+\i (00:18:51) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:18:51) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom CmpVal
+\i (00:18:52) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:18:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom CmpVal
+\i (00:18:52) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:18:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom CmpVal
+\i (00:18:54) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:18:54) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom CmpVal
+\i (00:18:55) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:18:55) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:18:56) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 1
+\i (00:18:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom RefDes
+\i (00:19:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:19:01) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:19:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:19:04) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:19:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:19:04) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:05) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:19:05) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:19:05) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:12) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:19:17) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:19:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:19:18) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:19:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:19:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 1
+\i (00:19:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top RefDes
+\i (00:19:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:22) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:19:25) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:19:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:19:26) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:19:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:19:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:19:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:19:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:19:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Top Mfg
+\i (00:19:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:28) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 2 0
+\i (00:19:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Ncdrill_Figure Mfg
+\i (00:19:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:28) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 2 0
+\i (00:19:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Ncdrill_Figure Mfg
+\i (00:19:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:29) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 3 0
+\i (00:19:29) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Ncdrill_Legend Mfg
+\i (00:19:29) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:29) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 3 0
+\i (00:19:29) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Ncdrill_Legend Mfg
+\i (00:19:29) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:29) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:19:29) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Nclegend-1-2 Mfg
+\i (00:19:29) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:30) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:19:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Nclegend-1-2 Mfg
+\i (00:19:30) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:30) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:19:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Nclegend-1-2 Mfg
+\i (00:19:30) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:19:40) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:19:43) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:19:44) zoom in 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom in 48.018 32.800
+\i (00:19:44) trapsize 453
+\i (00:19:46) zoom out 1 
+\i (00:19:46) setwindow pcb
+\i (00:19:46) zoom out 63.509 35.789
+\i (00:19:46) trapsize 906
+\i (00:19:47) zoom in 1 
+\i (00:19:47) setwindow pcb
+\i (00:19:47) zoom in 55.990 34.702
+\i (00:19:47) trapsize 453
+\i (00:19:48) roam start
+\i (00:19:48) roam x -64
+\i (00:19:48) roam x -32
+\i (00:19:49) roam x 16
+\i (00:19:49) roam y -16
+\i (00:19:49) roam end
+\i (00:19:50) zoom out 1 
+\i (00:19:50) setwindow pcb
+\i (00:19:50) zoom out 54.993 34.792
+\i (00:19:50) trapsize 906
+\i (00:19:53) zoom fit 
+\i (00:19:53) trapsize 434
+\i (00:19:54) zoom out 1 
+\i (00:19:54) setwindow pcb
+\i (00:19:54) zoom out 69.192 41.991
+\i (00:19:54) trapsize 868
+\i (00:19:55) roam start
+\i (00:19:55) roam y -48
+\i (00:19:55) roam y -32
+\i (00:19:55) roam y -16
+\i (00:19:55) roam end
+\i (00:19:58) pick grid 132.358 39.789
+\t (00:19:58) last pick:  132.400 39.800
+\i (00:19:59) save 
+\i (00:20:00) fillin yes 
+\i (00:20:00) generaledit 
+\i (00:20:01) zoom in 1 
+\i (00:20:01) setwindow pcb
+\i (00:20:01) zoom in 45.347 49.341
+\i (00:20:01) trapsize 434
+\i (00:20:04) xymode toggle 
+\t (00:20:04) XY readout mode is relative to last pick
+\i (00:20:05) xymode toggle 
+\t (00:20:05) XY readout mode is absolute
+\i (00:20:06) zoom out 1 
+\i (00:20:06) setwindow pcb
+\i (00:20:06) zoom out 100.923 44.305
+\i (00:20:06) trapsize 868
+\i (00:20:07) roam start
+\i (00:20:08) roam y 16
+\i (00:20:08) roam end
+\i (00:20:09) zoom fit 
+\i (00:20:09) trapsize 434
+\i (00:20:10) zoom in 
+\i (00:20:10) setwindow pcb
+\i (00:20:10) zoom in 50.001 34.957
+\i (00:20:10) trapsize 217
+\i (00:20:11) zoom out 
+\i (00:20:11) setwindow pcb
+\i (00:20:11) zoom out 50.001 34.957
+\i (00:20:11) trapsize 434
+\i (00:20:11) zoom out 
+\i (00:20:11) setwindow pcb
+\i (00:20:11) zoom out 50.002 34.958
+\i (00:20:11) trapsize 868
+\i (00:20:12) zoom in 
+\i (00:20:12) setwindow pcb
+\i (00:20:12) zoom in 84.945 34.957
+\i (00:20:12) trapsize 434
+\i (00:20:13) roam start
+\i (00:20:13) roam x -96
+\i (00:20:13) roam x -160
+\i (00:20:13) roam x -32
+\i (00:20:13) roam end
+\i (00:20:14) zoom points 
+\t (00:20:14) Pick 1st corner of the new window.
+\i (00:20:15) zoom out 1 
+\i (00:20:15) setwindow pcb
+\i (00:20:15) zoom out 79.387 63.180
+\i (00:20:15) trapsize 868
+\i (00:20:16) roam start
+\i (00:20:16) roam y -64
+\i (00:20:16) roam y -32
+\i (00:20:17) roam y -32
+\i (00:20:17) roam end
+\i (00:20:18) drag_start -1.892 100.402
+\i (00:20:19) drag_stop 79.040 -0.503
+\i (00:20:19) trapsize 638
+\i (00:20:19) generaledit 
+\i (00:20:21) zoom out 1 
+\i (00:20:21) setwindow pcb
+\i (00:20:21) zoom out 141.748 53.585
+\i (00:20:21) trapsize 1327
+\i (00:20:21) roam start
+\i (00:20:22) roam end
+\i (00:20:23) zoom points 
+\t (00:20:24) Pick 1st corner of the new window.
+\i (00:20:25) drag_start -40.177 104.248
+\i (00:20:29) drag_stop 97.610 -5.133
+\i (00:20:29) trapsize 691
+\i (00:20:29) generaledit 
+\i (00:21:00) artwork 
+\i (00:21:06) setwindow form.film_control
+\i (00:21:06) FORM film_control ok  
+\i (00:21:06) setwindow pcb
+\i (00:21:06) generaledit 
+\i (00:21:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkTOP_NEW"
+\i (00:21:09) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkTOP_NEW"
+\i (00:21:16) artwork 
+\i (00:21:18) setwindow form.film_control
+\i (00:21:18) FORM film_control create  
+\i (00:21:23) fillin no 
+\i (00:21:30) FORM film_control filmtree  'BOARD GEOMETRY/DESIGN_OUTLINE' SilkTOP_NEW 
+\i (00:21:33) FORM film_control filmtree popup Cut 'BOARD GEOMETRY/DESIGN_OUTLINE' SilkTOP_NEW 
+\i (00:21:34) FORM film_control create  
+\i (00:21:36) fillin no 
+\i (00:21:39) FORM film_control filmtree popup Add SilkTOP_NEW 
+\i (00:21:41) fillin "menu_cancel"
+\i (00:21:43) FORM film_control filmtree popup 'Add Manual' SilkTOP_NEW 
+\i (00:21:44) fillin "menu_cancel"
+\i (00:21:47) FORM film_control filmtree popup Add SilkTOP_NEW 
+\i (00:21:53) fillin "menu_cancel"
+\i (00:21:53) FORM film_control cancel  
+\i (00:21:53) setwindow pcb
+\i (00:21:53) generaledit 
+\i (00:21:54) exit 
+\e (00:21:54) Do you want to save the changes you made to C:/Users/user/Desktop/PULSE MODULATION/pulse modulation.brd?
+\i (00:21:55) fillin no 
+\t (00:21:55)     Journal end - Tue Jul 30 17:32:39 2019

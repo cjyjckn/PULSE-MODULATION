@@ -1,0 +1,82 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Jul 30 17:32:48 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=7192 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\user\Desktop\PULSE MODULATION\pulse modulation.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/user/Desktop/PULSE MODULATION/pulse modulation.brd
+\i (00:00:04) trapsize 868
+\i (00:00:04) trapsize 888
+\i (00:00:04) trapsize 907
+\i (00:00:05) trapsize 887
+\i (00:00:05) trapsize 14205
+\i (00:00:05) generaledit 
+\i (00:00:34) artwork 
+\i (00:00:36) setwindow form.film_control
+\i (00:00:36) FORM film_control create  
+\i (00:00:44) fillin yes 
+\w (00:00:44) No film records selected.
+\i (00:00:53) FORM film_control filmtree  'BOARD GEOMETRY/DESIGN_OUTLINE' DrillDraw 
+\i (00:00:58) FORM film_control filmtree popup Cut 'BOARD GEOMETRY/DESIGN_OUTLINE' DrillDraw 
+\i (00:00:59) FORM film_control filmtree popup Add MANUFACTURING/NCLEGEND-1-2 DrillDraw 
+\i (00:01:03) setwindow form.scl_browser
+\i (00:01:03) FORM scl_browser treelist 'MULTISEL YES' OUTLINE 'BOARD GEOMETRY' 
+\i (00:01:03) FORM scl_browser treelist  OUTLINE 'BOARD GEOMETRY' 
+\i (00:01:03) FORM scl_browser done  
+   (00:01:03) WARNING(SPMHA2-118): Board Geometry subclasses, 'DESIGN_OUTLINE' and 'CUTOUT', are the preferred subclasses for defining a board outline. Use these subclasses instead of the 'OUTLINE' subclass.
+\i (00:01:05) fillin confirm
+\i (00:01:08) setwindow form.film_control
+\i (00:01:08) FORM film_control create  
+\i (00:01:14) fillin yes 
+\w (00:01:14) No film records selected.
+\i (00:01:15) FORM film_control filmtree  DrillDraw 
+\i (00:01:22) FORM film_control filmtree  'BOARD GEOMETRY/DESIGN_OUTLINE' SilkTOP_NEW 
+\i (00:01:23) FORM film_control filmtree popup Cut 'BOARD GEOMETRY/DESIGN_OUTLINE' SilkTOP_NEW 
+\i (00:01:24) FORM film_control filmtree popup Add 'BOARD GEOMETRY/DIMENSION' SilkTOP_NEW 
+\i (00:01:27) setwindow form.scl_browser
+\i (00:01:27) FORM scl_browser treelist 'MULTISEL YES' OUTLINE 'BOARD GEOMETRY' 
+\i (00:01:27) FORM scl_browser treelist  OUTLINE 'BOARD GEOMETRY' 
+\i (00:01:28) FORM scl_browser done  
+   (00:01:28) WARNING(SPMHA2-118): Board Geometry subclasses, 'DESIGN_OUTLINE' and 'CUTOUT', are the preferred subclasses for defining a board outline. Use these subclasses instead of the 'OUTLINE' subclass.
+\i (00:01:29) fillin confirm
+\i (00:01:34) setwindow form.film_control
+\i (00:01:34) FORM film_control create  
+\i (00:01:38) fillin no 
+\i (00:01:41) FORM film_control filmtree  SilkTOP_NEW 
+\i (00:01:49) FORM film_control filmtree  'BOARD GEOMETRY/DESIGN_OUTLINE' design 
+\i (00:01:51) FORM film_control filmtree popup Cut 'BOARD GEOMETRY/DESIGN_OUTLINE' design 
+\i (00:01:53) FORM film_control filmtree  design 
+\i (00:01:56) FORM film_control create  
+\i (00:01:57) fillin no 
+\i (00:01:57) FORM film_control select_all  
+\i (00:01:58) FORM film_control create  
+\i (00:02:00) fillin yes 
+\t (00:02:00) Checking db records
+\t (00:02:00)     checking for orphans...
+\t (00:02:01)     Checked 100 percent
+\t (00:02:01) Done dbdoctor.
+\t (00:02:01) Starting Create artwork films...
+\w (00:02:01) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:02:02) Artwork generated with warnings.
+\i (00:02:33) setwindow text
+\i (00:02:33) close 
+\i (00:02:35) setwindow form.film_control
+\i (00:02:35) FORM film_control cancel  
+\i (00:02:35) setwindow pcb
+\i (00:02:35) generaledit 
+\i (00:03:40) plctxt out 
+\i (00:03:44) setwindow form.plctxt
+\i (00:03:44) FORM plctxt browse  
+\i (00:03:47) fillin "place_txt.txt"
+\i (00:03:48) FORM plctxt execute  
+\t (00:03:48) Starting Place symbols by text file...
+\i (00:03:51) FORM plctxt cancel  
+\i (00:03:51) setwindow pcb
+\i (00:03:51) generaledit 
+\i (00:04:13) refresh symbol 
+\i (00:04:34) setwindow form.upd_element
+\i (00:04:34) FORM upd_element tree  Modules 
+\i (00:04:34) FORM upd_element close  
+\i (00:04:34) setwindow pcb
+\i (00:04:34) generaledit

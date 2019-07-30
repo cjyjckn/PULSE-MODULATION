@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : pulse modulation.brd                          )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Jul 30 15:09:09 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.000
+Max Text displacement is 2.540
+Min Line Length is 0.000
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string '***' is not at a suitable location
+(location: 87.475, 61.857)
+Text string 'LF398' is not at a suitable location
+(location: 31.572, 24.816)
+Text string '***' is not at a suitable location
+(location: 31.572, 22.276)
+Text string '***' is not at a suitable location
+(location: 28.397, 43.866)
+Text string '***' is not at a suitable location
+(location: 28.397, 42.596)
+Text string 'LF356_1_DIP8_3_LF356' is not at a suitable location
+(location: 70.942, 53.391)
+Text string '***' is not at a suitable location
+(location: 82.372, 9.576)
+Text string '***' is not at a suitable location
+(location: 82.372, 8.306)
+Text string '***' is not at a suitable location
+(location: 66.497, 9.576)
+Text string '***' is not at a suitable location
+(location: 66.497, 8.306)
+
+Total Failures: 10
+
+Log End
+
